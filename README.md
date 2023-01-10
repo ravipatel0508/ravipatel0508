@@ -4,7 +4,9 @@ You may know me from [@bugs_fixes][2].😉
 
 
 # 📈 Statistics 📈
-![](https://komarev.com/ghpvc/?username=ravipatel0508&color=447ff7&label=Visitor+count)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ravipatel0508&color=blueviolet&style=flat">
+</p>
 
 <p align="center">
   <a href="https://github.com/ravipatel0508">
