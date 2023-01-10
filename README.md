@@ -1,6 +1,6 @@
 # Hi there 👋
 
-You may know me from @bugs_fixes.😉
+You may know me from [@bugs_fixes][2].😉
 
 
 # 📈 Statistics 📈
