@@ -10,7 +10,7 @@ You may know me from [@bugs_fixes][2].😉
 
 <p align="center">
   <a href="https://github.com/ravipatel0508">
-    <img src="https://github-readme-stats.vercel.app/api?username=ravipatel0508&show_icons=true&theme=github_dark&hide_border=true" />
+<!--     <img src="https://github-readme-stats.vercel.app/api?username=ravipatel0508&show_icons=true&theme=github_dark&hide_border=true" /> -->
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravipatel0508&theme=github-dark-blue&hide_border=true" />
 
 [//]: # (    <img src="https://activity-graph.herokuapp.com/graph?username=ravipatel0508&theme=react-dark" />)
